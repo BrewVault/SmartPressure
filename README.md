@@ -1,2 +1,2 @@
 # SmartPressure
-firmware for BrewVault SmartPressure boards
+Firmware for BrewVault SmartPressure boards
